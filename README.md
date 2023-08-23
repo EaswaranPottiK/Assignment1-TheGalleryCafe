@@ -5,6 +5,7 @@
 Heading created using H1 tag
 link crated using anchor tag 'a' and href
 
+Sentence made bold using b tag
 horizontal line added using hr tag
 
 
